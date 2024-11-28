@@ -1,1 +1,6 @@
-streamlitpandasnumpygttsspeechrecognitionstatsmodels
+streamlit
+pandas
+numpy
+gtts
+speechrecognition
+statsmodels

@@ -7,6 +7,9 @@ from gtts import gTTS
 import os
 import random
 
+
+#i changed this part did u get it???
+
 # Updated base sunlight data for cities
 sunlight_base_data = {
     "Bangalore": 6.5,
